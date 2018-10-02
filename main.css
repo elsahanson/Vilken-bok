@@ -1,3 +1,28 @@
+button {
+  background-color: orange;
+  font-weight: bold;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 70px;
+background-image: url(https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/39221331_223187888354504_5334453358495268864_n.jpg?_nc_cat=100&oh=26de673ab4774d7d14cff9cafe9c4c2d&oe=5C4F83B0);
+}
+
+h1 {
+  color: white;
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: 2px;
+  margin-bottom: 0px;
+}
+
+.inputsection {
+  margin: 50px 0px 80px 0px;
+  width: 400px;
 }
 
 .inputs {
